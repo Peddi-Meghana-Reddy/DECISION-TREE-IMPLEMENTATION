@@ -14,3 +14,7 @@ This project helps in understanding:
 - Model training and prediction
 - Accuracy evaluation
 - Decision Tree visualization
+
+#OUTPUT
+
+<img width="2854" height="1511" alt="Image" src="https://github.com/user-attachments/assets/7b251125-0894-4f33-b7cb-00f8392419e2" />
